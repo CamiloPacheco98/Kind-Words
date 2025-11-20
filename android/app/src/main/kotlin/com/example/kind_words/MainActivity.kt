@@ -1,4 +1,4 @@
-package com.example.kind_words
+package com.pcreat.kind_words
 
 import io.flutter.embedding.android.FlutterActivity
 

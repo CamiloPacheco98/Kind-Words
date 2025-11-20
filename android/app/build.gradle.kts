@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.kind_words"
+    namespace = "com.pcreat.kind_words"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
